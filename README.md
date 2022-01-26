@@ -8,7 +8,7 @@ Like many others in its genre, the fantasy game "Heroes of Pymoli" is free-to-pl
 
 ## Final notebook includes information for each of the following:
 
-### (\*Please see the Jupyter notebook file under Work_Files folder.)
+### (\*Please see the Jupyter Notebook file under the Work_Files folder.)
 
 </br>
 
